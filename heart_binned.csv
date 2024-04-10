@@ -1,0 +1,1026 @@
+sex,cp,fbs,restecg,exang,slope,ca,thal,class,age_binned,trestbps_binned,chol_binned,thalach_binned,oldpeak_binned
+1,0,0,1,0,2,2,3,0,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,0,1,0,1,0,0,3,0,Middle-aged,Normal,Borderline high,Average,Severe
+1,0,0,1,1,0,0,3,0,Elderly,High,Desirable,Below Average,Severe
+1,0,0,1,0,2,1,3,0,Elderly,High,Borderline high,Average,Minimal
+0,0,1,1,0,1,3,2,0,Elderly,Normal,High,Below Average,Moderate
+0,0,0,0,0,1,0,2,1,Middle-aged,Low,High,Below Average,Minimal
+1,0,0,2,0,0,3,1,0,Middle-aged,Low,High,Below Average,Severe
+1,0,0,0,1,1,1,3,0,Middle-aged,High,High,Average,Minimal
+1,0,0,0,0,2,0,3,0,Middle-aged,Low,High,Average,Minimal
+1,0,0,0,1,1,2,2,0,Middle-aged,Normal,High,Below Average,Severe
+0,0,0,1,0,1,0,2,1,Elderly,Low,Desirable,Below Average,Moderate
+0,0,1,0,1,1,0,3,0,Middle-aged,Normal,High,Below Average,Severe
+0,1,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,0,0,1,1,1,3,3,0,Middle-aged,Normal,High,Below Average,Severe
+1,0,1,1,1,1,0,0,0,Middle-aged,Normal,Borderline high,Average,Minimal
+0,1,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+0,2,0,0,0,2,1,2,1,Middle-aged,Normal,High,Below Average,Moderate
+1,0,0,0,1,1,1,3,0,Middle-aged,Normal,High,Below Average,Severe
+0,1,0,1,0,2,0,2,1,Middle-aged,Low,High,Average,Moderate
+1,2,1,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,2,0,0,0,1,0,2,0,Middle-aged,Normal,Desirable,Average,Severe
+0,0,0,1,0,2,2,2,1,Elderly,Low,Borderline high,Below Average,Minimal
+1,0,0,0,1,1,0,2,1,Middle-aged,Low,Borderline high,Average,Severe
+0,2,0,0,0,2,0,2,1,Elderly,Normal,High,Above Average,Minimal
+0,2,0,1,0,1,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+0,0,0,0,1,1,0,3,0,Elderly,High,High,Average,Minimal
+1,2,0,1,1,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+0,1,1,0,0,2,2,2,0,Middle-aged,Normal,High,Average,Minimal
+1,2,1,0,1,1,1,1,0,Middle-aged,Normal,High,Below Average,Minimal
+0,0,0,2,1,1,0,2,0,Middle-aged,High,High,Below Average,Severe
+1,0,0,1,1,0,0,1,0,Middle-aged,Low,Desirable,Average,Severe
+0,1,0,1,0,2,0,2,1,Middle-aged,Low,High,Average,Moderate
+1,0,0,1,1,1,1,3,0,Middle-aged,Normal,Desirable,Below Average,Moderate
+1,2,0,1,1,1,1,3,0,Elderly,High,High,Below Average,Severe
+1,2,0,1,0,2,0,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+1,2,0,1,0,1,0,2,0,Middle-aged,High,Borderline high,Average,Severe
+1,3,0,0,1,2,1,2,1,Middle-aged,Normal,Borderline high,Below Average,Moderate
+1,0,0,0,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,0,0,1,1,1,1,3,1,Elderly,Normal,High,Below Average,Minimal
+1,2,0,0,0,1,1,3,0,Middle-aged,Normal,Borderline high,Average,Minimal
+0,2,0,0,0,2,0,2,1,Elderly,High,High,Average,Minimal
+1,2,0,0,0,1,0,3,1,Middle-aged,Low,High,Average,Minimal
+0,0,0,0,0,2,0,2,0,Elderly,Normal,High,Above Average,Minimal
+1,0,0,0,0,2,0,3,0,Middle-aged,Low,High,Average,Minimal
+0,1,0,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Moderate
+1,0,0,1,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,1,0,1,0,1,0,1,1,Middle-aged,Normal,Borderline high,Below Average,Minimal
+0,0,1,1,1,1,2,3,0,Elderly,High,Borderline high,Above Average,Minimal
+0,2,0,0,0,1,1,2,1,Elderly,High,High,Average,Minimal
+1,0,1,1,1,2,2,3,0,Middle-aged,Low,Borderline high,Average,Moderate
+0,3,1,0,0,2,0,2,1,Middle-aged,High,High,Average,Minimal
+0,0,0,1,1,1,0,3,0,Middle-aged,Normal,High,Below Average,Minimal
+1,2,0,1,0,2,4,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+1,2,0,1,0,1,3,3,0,Middle-aged,Low,Desirable,Below Average,Moderate
+1,0,0,1,1,0,0,3,0,Middle-aged,Normal,Borderline high,Below Average,Severe
+1,0,0,1,1,0,0,3,0,Middle-aged,Normal,Borderline high,Below Average,Severe
+1,3,0,0,0,1,0,3,1,Middle-aged,Low,Desirable,Average,Moderate
+1,1,0,0,0,1,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,2,0,0,0,1,0,3,0,Elderly,High,Borderline high,Average,Minimal
+1,1,0,0,0,2,1,2,0,Middle-aged,High,Borderline high,Above Average,Minimal
+1,1,0,0,0,2,0,2,1,Young,Normal,Borderline high,Above Average,Minimal
+0,2,0,0,0,1,1,2,1,Elderly,High,High,Average,Minimal
+1,0,0,0,1,1,2,2,0,Elderly,Low,High,Below Average,Minimal
+1,2,1,1,0,2,0,2,1,Middle-aged,High,Borderline high,Average,Moderate
+1,1,0,0,0,2,0,2,1,Young,Normal,Borderline high,Above Average,Minimal
+1,3,0,0,0,1,0,3,0,Middle-aged,High,High,Average,Minimal
+1,2,1,0,0,0,0,2,1,Middle-aged,Normal,Desirable,Average,Moderate
+1,0,0,1,1,1,0,1,0,Middle-aged,Normal,High,Below Average,Moderate
+0,2,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+0,0,0,0,0,0,3,3,0,Elderly,High,Desirable,Average,
+1,0,0,0,1,0,0,3,0,Middle-aged,High,High,Below Average,Severe
+1,0,0,0,1,2,1,3,0,Elderly,Normal,Borderline high,Below Average,Moderate
+1,0,1,0,1,1,1,2,0,Middle-aged,Normal,High,Average,Moderate
+1,0,0,1,1,2,1,3,0,Middle-aged,Normal,Desirable,Average,Minimal
+1,0,1,0,1,2,2,3,0,Middle-aged,Normal,High,Average,Minimal
+1,2,0,0,0,2,0,2,1,Middle-aged,Normal,High,Average,Minimal
+1,2,1,1,0,2,2,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,0,0,0,1,2,2,3,0,Elderly,Normal,Desirable,Average,Severe
+1,1,0,1,0,2,1,2,1,Middle-aged,Normal,Borderline high,Average,Minimal
+1,1,0,1,0,2,1,2,1,Middle-aged,Normal,Borderline high,Average,Minimal
+1,2,0,1,0,1,1,3,0,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,2,0,0,0,2,3,2,0,Middle-aged,Low,Desirable,Below Average,Minimal
+1,2,0,1,0,1,0,2,0,Middle-aged,High,Borderline high,Average,Severe
+1,2,0,1,0,2,4,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+0,2,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,2,1,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+0,0,0,1,1,1,0,2,0,Middle-aged,High,High,Average,Minimal
+0,0,0,0,0,0,2,2,0,Elderly,Normal,High,Average,Severe
+1,0,1,1,0,1,2,3,0,Elderly,High,Desirable,Below Average,Severe
+0,2,0,0,0,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+0,0,0,1,0,2,0,2,1,Elderly,Normal,Borderline high,Above Average,Minimal
+1,0,0,0,1,2,2,3,0,Elderly,Normal,Desirable,Average,Severe
+1,0,0,1,1,0,0,1,0,Middle-aged,Low,Desirable,Average,Severe
+1,1,1,0,0,2,0,2,1,Elderly,Normal,Borderline high,Below Average,Minimal
+0,0,0,0,1,1,0,2,1,Middle-aged,Normal,Borderline high,Average,Minimal
+0,0,0,0,0,2,1,2,1,Middle-aged,Normal,High,Average,Minimal
+1,0,0,1,1,1,2,3,0,Middle-aged,Normal,High,Below Average,Moderate
+1,0,0,0,0,2,2,1,0,Elderly,Low,High,Average,Minimal
+0,2,0,2,0,1,0,2,1,Elderly,Normal,Desirable,Below Average,Moderate
+0,2,0,1,0,1,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,2,1,1,0,2,1,3,1,Middle-aged,High,Desirable,Above Average,Minimal
+1,1,0,1,0,2,0,3,1,Middle-aged,Low,High,Average,Minimal
+1,2,0,0,0,2,0,2,1,Middle-aged,Normal,High,Average,Minimal
+1,3,0,0,0,1,0,1,1,Middle-aged,Low,Desirable,Above Average,Minimal
+1,0,0,0,1,1,1,2,0,Middle-aged,Low,High,Below Average,Minimal
+1,0,0,1,1,2,0,3,0,Middle-aged,Normal,High,Above Average,Moderate
+1,1,0,0,0,1,1,3,0,Elderly,Low,High,Below Average,Moderate
+1,0,0,1,0,2,0,3,0,Middle-aged,High,Borderline high,Above Average,Minimal
+1,0,0,0,1,1,1,2,0,Middle-aged,Low,Borderline high,Below Average,Minimal
+1,0,0,0,0,2,1,2,0,Middle-aged,Low,Desirable,Above Average,Minimal
+1,0,0,0,1,2,0,3,1,Middle-aged,High,Borderline high,Below Average,Minimal
+1,0,1,0,1,2,2,3,0,Middle-aged,Normal,High,Average,Minimal
+1,0,0,1,1,1,1,3,0,Middle-aged,Low,High,Average,Severe
+1,2,1,1,0,1,1,1,0,Middle-aged,Normal,Borderline high,Below Average,Severe
+0,0,0,0,1,1,0,3,0,Elderly,High,High,Average,Minimal
+1,0,0,0,0,1,1,3,0,Elderly,Normal,High,Average,Moderate
+1,0,0,0,1,1,0,3,0,Middle-aged,Low,Desirable,Below Average,Severe
+1,1,0,0,0,2,0,2,1,Young,Normal,Borderline high,Above Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,High,Average,Minimal
+1,1,0,1,0,2,0,3,1,Middle-aged,Low,High,Average,Minimal
+1,0,0,1,1,0,0,1,0,Middle-aged,Low,Desirable,Average,Severe
+1,0,0,0,1,1,2,3,0,Middle-aged,High,High,Below Average,Severe
+0,2,1,0,0,2,1,2,1,Elderly,Normal,High,Average,Minimal
+1,0,0,1,1,1,1,3,0,Elderly,Low,High,Below Average,Severe
+0,3,0,1,0,2,0,2,1,Middle-aged,High,High,Above Average,Minimal
+1,0,0,0,0,1,0,2,1,Elderly,Low,High,Average,Minimal
+1,2,1,0,0,0,0,2,1,Middle-aged,Normal,Desirable,Average,Moderate
+1,2,0,1,0,2,4,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,0,0,1,0,1,0,1,1,Middle-aged,Normal,Desirable,Average,Minimal
+0,3,0,1,0,2,0,2,1,Middle-aged,High,High,Above Average,Minimal
+0,2,0,0,0,2,0,2,1,Middle-aged,Normal,High,Average,Minimal
+1,1,0,1,0,1,0,1,1,Middle-aged,Normal,Borderline high,Below Average,Minimal
+1,2,0,1,0,2,0,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+1,1,0,1,0,2,0,3,1,Middle-aged,Low,High,Average,Minimal
+0,0,1,0,1,1,2,1,0,Middle-aged,High,Borderline high,Average,Severe
+0,1,0,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Moderate
+0,0,0,1,1,2,0,2,1,Elderly,High,High,Average,Minimal
+1,2,0,0,0,2,0,2,1,Middle-aged,Normal,High,Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Average,Minimal
+1,0,0,1,1,1,1,3,0,Middle-aged,High,High,Below Average,Moderate
+0,0,0,1,1,1,0,2,0,Elderly,Normal,Desirable,Below Average,Minimal
+1,3,0,1,0,1,2,2,0,Elderly,Normal,Borderline high,Average,Severe
+1,3,0,0,0,2,0,2,1,Middle-aged,Low,Desirable,Above Average,Minimal
+1,0,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Average,Minimal
+1,0,0,0,1,1,0,3,0,Middle-aged,Low,Desirable,Below Average,Moderate
+0,2,0,0,0,2,0,2,1,Middle-aged,Low,High,Average,Minimal
+1,0,0,0,0,2,0,3,0,Middle-aged,Low,Desirable,Average,Minimal
+1,3,1,1,0,1,0,3,1,Middle-aged,High,High,Above Average,Moderate
+1,2,0,0,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,0,0,2,0,0,3,1,0,Middle-aged,Low,High,Below Average,Severe
+1,1,0,0,0,2,1,3,0,Middle-aged,High,High,Above Average,Minimal
+1,0,0,0,0,2,2,3,0,Middle-aged,Normal,High,Above Average,Minimal
+1,2,0,0,0,1,0,3,1,Middle-aged,Low,High,Average,Minimal
+1,0,1,0,1,2,3,3,0,Elderly,Normal,High,Below Average,Moderate
+1,1,0,1,0,2,0,3,1,Middle-aged,Low,High,Average,Minimal
+1,3,0,1,1,2,0,3,1,Middle-aged,Normal,Desirable,Above Average,Moderate
+1,2,0,0,0,1,0,3,1,Middle-aged,Low,High,Average,Minimal
+0,2,0,0,0,1,0,3,1,Elderly,Low,High,Average,Moderate
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,Desirable,Above Average,Minimal
+1,0,0,0,1,2,3,2,0,Elderly,Normal,High,Average,Minimal
+1,2,0,1,1,1,0,2,1,Middle-aged,Low,Borderline high,Average,Moderate
+1,0,0,0,1,2,3,2,0,Elderly,Normal,High,Average,Minimal
+1,0,0,0,0,1,0,3,0,Middle-aged,Normal,High,Above Average,Minimal
+1,0,1,0,1,1,1,2,0,Middle-aged,Normal,High,Average,Moderate
+1,0,0,0,1,0,0,3,0,Middle-aged,High,High,Below Average,Severe
+1,0,0,0,1,1,1,1,0,Middle-aged,Normal,Desirable,Below Average,Severe
+0,0,0,1,1,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+1,2,0,1,0,2,1,2,1,Middle-aged,Normal,High,Average,Moderate
+0,1,0,1,0,1,0,2,1,Middle-aged,Low,Desirable,Below Average,Minimal
+1,0,0,1,0,2,0,2,1,Middle-aged,High,High,Above Average,Moderate
+1,0,1,0,1,0,0,3,0,Middle-aged,Normal,High,Below Average,Moderate
+1,1,0,1,0,0,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+0,2,0,1,0,2,0,2,1,Middle-aged,Low,Desirable,Above Average,Minimal
+1,0,0,1,1,1,1,3,0,Middle-aged,Low,Borderline high,Below Average,Severe
+0,0,1,0,1,0,2,3,0,Middle-aged,High,High,Below Average,Severe
+1,0,1,0,1,0,0,3,0,Middle-aged,Normal,High,Below Average,Moderate
+1,0,0,0,1,0,1,2,0,Elderly,Low,High,Below Average,Severe
+1,0,0,0,0,2,1,2,0,Middle-aged,Low,Desirable,Above Average,Minimal
+0,0,0,0,1,1,2,3,0,Middle-aged,Normal,High,Average,Moderate
+1,0,0,0,1,2,2,3,0,Elderly,Normal,Desirable,Average,Severe
+1,3,0,0,1,1,0,2,1,Elderly,Low,Borderline high,Average,Moderate
+1,0,0,0,0,1,2,3,0,Middle-aged,Normal,High,Above Average,Moderate
+1,2,0,1,0,2,0,2,1,Middle-aged,Normal,Desirable,Average,Minimal
+1,1,0,0,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,0,1,0,0,1,3,3,0,Middle-aged,High,High,Below Average,Minimal
+1,0,0,0,1,1,0,3,0,Middle-aged,Low,Desirable,Below Average,Moderate
+1,0,1,0,1,1,1,2,0,Middle-aged,Normal,High,Average,Moderate
+1,0,0,0,0,1,1,3,0,Elderly,Normal,High,Average,Moderate
+1,2,0,1,1,1,0,3,0,Elderly,Normal,High,Below Average,Moderate
+1,2,0,1,0,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+1,1,0,0,0,2,0,3,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+0,2,0,0,0,1,0,3,1,Elderly,Low,High,Average,Moderate
+1,3,1,0,0,1,1,2,1,Elderly,High,Borderline high,Below Average,Minimal
+1,0,0,0,1,1,3,2,0,Elderly,High,High,Below Average,Moderate
+1,2,1,1,0,2,0,2,1,Middle-aged,High,Borderline high,Average,Moderate
+1,0,0,1,0,2,1,3,0,Middle-aged,Low,Borderline high,Average,Minimal
+1,0,0,0,0,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+0,2,0,1,0,2,1,2,1,Middle-aged,Low,High,Average,Minimal
+1,0,0,0,1,1,0,3,0,Middle-aged,High,Desirable,Below Average,Minimal
+0,0,0,1,0,2,0,2,1,Elderly,Normal,Borderline high,Above Average,Minimal
+1,3,0,0,0,2,0,2,1,Middle-aged,Low,Desirable,Above Average,Minimal
+1,3,1,1,0,1,0,3,1,Middle-aged,High,High,Above Average,Moderate
+1,3,0,0,0,1,0,3,1,Elderly,High,Borderline high,Average,Minimal
+0,2,0,0,0,1,1,2,1,Elderly,High,High,Average,Minimal
+1,3,0,0,0,2,2,2,1,Middle-aged,High,High,Above Average,Minimal
+1,2,1,1,0,1,1,1,0,Middle-aged,Normal,Borderline high,Below Average,Severe
+1,2,0,1,0,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+1,2,0,1,0,2,4,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+1,1,0,0,0,1,1,3,0,Elderly,Low,High,Below Average,Moderate
+1,2,1,1,0,0,0,3,1,Middle-aged,Low,High,Above Average,Minimal
+1,0,0,0,1,1,2,2,0,Elderly,Low,High,Below Average,Minimal
+1,0,0,0,0,1,0,3,0,Middle-aged,High,High,Below Average,Severe
+1,2,0,1,0,2,1,2,1,Middle-aged,Normal,High,Average,Moderate
+1,1,0,0,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,0,0,0,0,1,1,3,0,Elderly,Normal,High,Below Average,Severe
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,Desirable,Above Average,Minimal
+1,0,0,1,1,1,2,3,0,Middle-aged,Normal,High,Below Average,Moderate
+1,0,0,0,1,1,2,2,0,Middle-aged,Normal,High,Below Average,Severe
+0,1,0,0,0,1,1,2,0,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,0,0,0,0,1,1,3,0,Elderly,Normal,High,Average,Moderate
+1,3,0,0,1,1,0,2,1,Elderly,Low,Borderline high,Average,Moderate
+0,2,0,1,0,2,0,2,1,Middle-aged,Low,Desirable,Above Average,Minimal
+1,0,0,0,1,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,2,0,0,0,2,0,3,1,Middle-aged,High,Borderline high,Above Average,Moderate
+1,2,0,0,0,2,3,2,0,Middle-aged,Low,Desirable,Below Average,Minimal
+0,2,0,1,0,1,1,2,1,Middle-aged,Low,High,Average,Minimal
+1,1,1,1,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+0,0,1,1,1,1,2,3,0,Elderly,High,Borderline high,Above Average,Minimal
+1,0,0,0,0,2,2,3,0,Middle-aged,Normal,High,Above Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,0,0,0,1,1,1,3,0,Middle-aged,Normal,High,Below Average,Severe
+0,1,0,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+0,0,0,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,3,0,0,0,1,0,3,1,Elderly,High,Borderline high,Average,Minimal
+1,2,0,0,0,2,3,2,0,Middle-aged,Low,Desirable,Below Average,Minimal
+1,1,0,1,0,2,0,3,0,Middle-aged,Normal,High,Below Average,Minimal
+1,0,1,1,1,2,2,3,0,Middle-aged,Low,Borderline high,Average,Moderate
+0,0,0,1,1,1,0,2,0,Elderly,High,High,Average,Moderate
+0,1,1,0,1,2,1,2,1,Middle-aged,Normal,High,Average,Minimal
+1,2,0,0,0,1,0,3,0,Elderly,High,Borderline high,Average,Minimal
+1,2,0,1,0,2,4,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+1,2,0,0,0,1,0,2,0,Middle-aged,Normal,Desirable,Average,Severe
+1,2,1,0,0,1,0,2,1,Middle-aged,Normal,High,Above Average,Severe
+1,1,0,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,1,0,0,0,2,1,3,0,Middle-aged,High,High,Above Average,Minimal
+1,0,0,1,1,1,2,3,0,Middle-aged,Normal,High,Below Average,Moderate
+0,2,0,1,0,1,0,2,1,Middle-aged,Normal,Borderline high,Average,Minimal
+1,2,0,1,0,2,0,2,1,Middle-aged,Normal,Desirable,Average,Minimal
+1,0,0,0,1,1,1,2,0,Middle-aged,Low,High,Below Average,Minimal
+0,1,0,1,0,1,0,2,1,Middle-aged,Low,Desirable,Below Average,Minimal
+1,0,0,1,1,1,1,3,0,Middle-aged,Normal,High,Below Average,Moderate
+1,0,1,0,0,1,3,3,0,Middle-aged,High,High,Below Average,Minimal
+1,0,0,1,1,1,0,3,0,Middle-aged,Low,Desirable,Below Average,Moderate
+0,0,0,0,0,1,0,2,1,Elderly,Normal,High,Average,Moderate
+0,0,0,1,0,2,0,2,1,Middle-aged,Normal,Desirable,Above Average,Moderate
+0,0,0,1,1,2,0,2,1,Elderly,High,High,Average,Minimal
+1,3,0,1,1,1,0,3,0,Middle-aged,Low,Borderline high,Above Average,Severe
+1,0,0,0,0,1,0,2,1,Elderly,Low,High,Average,Minimal
+1,2,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,2,0,0,0,2,0,3,1,Middle-aged,High,Borderline high,Above Average,Moderate
+1,0,0,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+0,1,0,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Moderate
+0,0,1,0,1,1,2,1,0,Middle-aged,High,Borderline high,Average,Severe
+1,0,0,0,1,1,0,2,1,Middle-aged,Low,Borderline high,Average,Severe
+1,0,0,1,1,1,2,3,0,Middle-aged,Normal,High,Below Average,Moderate
+1,0,0,1,0,1,0,2,0,Elderly,Low,Borderline high,Below Average,Minimal
+1,2,0,0,0,2,2,3,0,Middle-aged,Normal,Borderline high,Above Average,Severe
+0,2,1,0,0,2,1,2,1,Elderly,Low,High,Below Average,Minimal
+1,0,0,1,0,2,0,3,1,Middle-aged,Low,Borderline high,Average,Minimal
+1,1,0,1,0,2,0,3,1,Middle-aged,Low,High,Above Average,Minimal
+0,2,0,1,0,1,0,2,1,Middle-aged,Normal,Borderline high,Average,Minimal
+1,0,0,0,1,1,1,2,0,Middle-aged,Low,Borderline high,Below Average,Minimal
+1,0,0,0,0,2,0,1,1,Elderly,High,Borderline high,Below Average,Severe
+1,0,1,0,1,0,0,3,0,Middle-aged,Normal,High,Below Average,Moderate
+1,0,0,1,1,2,0,3,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,1,0,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,0,0,0,1,1,1,3,0,Middle-aged,High,High,Average,Minimal
+0,1,0,1,0,2,1,2,1,Middle-aged,Low,Desirable,Above Average,Minimal
+0,1,0,0,0,1,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+0,1,0,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Moderate
+1,3,0,0,1,1,0,2,1,Elderly,Low,Borderline high,Average,Moderate
+1,2,0,0,0,2,2,3,0,Middle-aged,Normal,Borderline high,Above Average,Severe
+0,2,1,0,0,2,1,2,1,Elderly,Low,High,Below Average,Minimal
+0,2,0,1,0,2,0,3,1,Elderly,Normal,High,Below Average,Minimal
+0,1,0,1,0,2,2,2,1,Elderly,High,High,Average,Minimal
+0,2,0,1,0,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+1,0,0,1,0,2,0,3,0,Middle-aged,High,Borderline high,Above Average,Minimal
+1,2,0,1,0,2,4,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,0,0,0,1,1,2,3,0,Middle-aged,Normal,High,Below Average,Severe
+1,2,1,1,1,1,0,2,1,Elderly,High,High,Below Average,Minimal
+1,2,1,1,0,2,0,2,1,Middle-aged,High,Borderline high,Average,Moderate
+0,0,1,0,1,0,2,3,0,Middle-aged,High,High,Below Average,Severe
+1,0,0,0,1,1,2,2,0,Elderly,Low,High,Below Average,Minimal
+1,0,0,1,0,1,0,2,0,Elderly,Low,Borderline high,Below Average,Minimal
+1,0,0,0,1,2,0,3,0,Middle-aged,High,High,Below Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+0,1,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,2,0,1,1,2,1,3,1,Middle-aged,Low,Borderline high,Average,Minimal
+0,1,0,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Moderate
+1,0,0,0,1,1,2,3,0,Middle-aged,High,High,Below Average,Severe
+0,2,0,0,0,1,0,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+1,0,0,1,1,1,2,3,0,Elderly,Low,High,Below Average,Moderate
+0,2,0,1,0,1,1,2,1,Middle-aged,Low,High,Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,2,1,1,0,1,1,1,0,Middle-aged,Normal,Borderline high,Below Average,Severe
+0,1,0,0,0,1,0,2,1,Middle-aged,Normal,High,Average,Moderate
+1,0,0,1,1,1,1,3,0,Elderly,Low,High,Below Average,Severe
+1,0,1,0,1,2,2,3,0,Middle-aged,Normal,High,Average,Minimal
+1,2,0,1,1,1,1,3,0,Elderly,High,High,Below Average,Severe
+0,1,0,0,1,2,1,2,1,Elderly,Low,High,Below Average,Minimal
+1,3,0,1,1,2,0,3,1,Middle-aged,Normal,Desirable,Above Average,Moderate
+1,3,0,0,0,2,2,2,1,Middle-aged,High,High,Above Average,Minimal
+0,2,0,1,0,2,0,3,1,Elderly,Normal,High,Below Average,Minimal
+0,2,0,0,0,2,0,2,1,Elderly,Normal,High,Above Average,Minimal
+1,0,0,1,1,2,1,3,0,Middle-aged,Normal,Desirable,Average,Minimal
+0,2,0,0,0,2,0,0,1,Middle-aged,Normal,Borderline high,Below Average,Minimal
+0,0,0,0,0,1,0,2,1,Middle-aged,Normal,High,Average,Minimal
+0,2,0,1,0,2,0,2,1,Middle-aged,Normal,High,Below Average,Minimal
+1,0,0,0,1,1,3,3,0,Middle-aged,High,High,Average,Minimal
+1,1,0,1,1,1,3,1,0,Elderly,High,High,Below Average,Minimal
+1,1,0,0,0,1,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+0,1,0,0,0,1,0,2,1,Middle-aged,Normal,High,Average,Moderate
+1,1,0,0,0,2,1,3,0,Middle-aged,High,High,Above Average,Minimal
+1,0,0,0,1,1,1,1,0,Middle-aged,High,High,Below Average,Minimal
+1,0,0,0,0,1,3,2,0,Elderly,Normal,High,Below Average,Severe
+0,2,0,0,0,2,0,0,1,Middle-aged,Normal,Borderline high,Below Average,Minimal
+0,2,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+0,0,0,1,1,1,2,2,0,Elderly,Low,High,Above Average,Moderate
+1,2,0,1,0,0,0,2,1,Middle-aged,Normal,High,Above Average,Severe
+0,2,0,1,0,1,0,2,1,Middle-aged,Low,Borderline high,Average,Moderate
+1,0,0,0,1,1,2,3,0,Middle-aged,Normal,Borderline high,Below Average,Severe
+1,0,0,0,1,2,0,3,0,Middle-aged,High,High,Below Average,Minimal
+1,2,1,1,0,2,1,3,1,Middle-aged,High,Desirable,Above Average,Minimal
+1,2,0,0,0,0,1,2,1,Middle-aged,Normal,High,Average,Minimal
+1,2,1,0,1,1,1,1,0,Middle-aged,Normal,High,Below Average,Minimal
+1,0,0,1,1,2,1,3,0,Middle-aged,Normal,High,Average,Moderate
+1,2,0,1,0,2,4,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+1,2,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+0,2,0,1,0,2,0,2,1,Elderly,High,High,Average,Minimal
+1,2,1,1,0,2,0,3,1,Middle-aged,High,Desirable,Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,Desirable,Above Average,Minimal
+1,1,0,1,1,1,3,1,0,Elderly,High,High,Below Average,Minimal
+1,0,0,0,0,1,0,3,0,Middle-aged,High,High,Below Average,Severe
+0,2,0,0,0,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+1,0,1,0,1,1,4,3,0,Middle-aged,Normal,High,Average,Minimal
+0,2,0,1,0,1,1,3,0,Elderly,Normal,High,Below Average,Moderate
+1,0,0,0,0,1,0,2,1,Elderly,Low,High,Average,Minimal
+1,0,0,0,1,1,0,3,0,Middle-aged,High,Desirable,Below Average,Minimal
+1,0,0,1,1,1,1,3,0,Middle-aged,Low,High,Average,Severe
+1,0,0,1,1,1,0,1,1,Middle-aged,Low,Borderline high,Below Average,Moderate
+1,1,0,1,0,2,0,3,0,Middle-aged,Normal,High,Below Average,Minimal
+0,0,0,0,1,1,0,2,1,Middle-aged,Normal,High,Average,Minimal
+1,0,1,0,0,1,2,1,0,Middle-aged,High,Desirable,Below Average,Minimal
+1,0,0,0,1,1,3,2,0,Elderly,High,High,Below Average,Moderate
+1,3,0,1,0,2,2,2,0,Middle-aged,Normal,Borderline high,Average,Minimal
+0,2,0,0,0,2,0,0,1,Middle-aged,Normal,Borderline high,Below Average,Minimal
+1,0,0,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,2,0,1,0,1,3,3,1,Elderly,Normal,Borderline high,Average,Moderate
+0,2,0,1,0,1,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,2,1,0,0,2,3,2,1,Middle-aged,Normal,High,Above Average,Minimal
+0,1,0,0,0,1,1,2,0,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,2,1,0,0,2,3,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,2,0,0,0,1,1,3,0,Middle-aged,Low,Borderline high,Above Average,Severe
+1,1,0,1,0,0,0,3,0,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,2,0,0,1,1,0,3,1,Middle-aged,Low,High,Average,Minimal
+1,2,0,1,0,2,0,2,1,Middle-aged,Low,Desirable,Below Average,Minimal
+0,0,1,0,1,1,0,3,0,Middle-aged,Normal,High,Below Average,Severe
+1,0,0,1,1,1,1,3,0,Middle-aged,Normal,High,Below Average,Moderate
+0,2,0,1,0,1,0,2,1,Middle-aged,Low,Borderline high,Average,Moderate
+1,1,0,0,0,1,0,2,0,Middle-aged,Low,High,Average,Moderate
+0,2,0,0,1,0,0,2,1,Middle-aged,High,Desirable,Average,Moderate
+1,0,0,0,0,2,0,1,1,Elderly,High,Borderline high,Below Average,Severe
+1,1,0,1,1,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+0,0,0,1,0,1,2,2,1,Elderly,Normal,High,Below Average,Moderate
+1,0,0,1,0,1,0,2,0,Elderly,Low,Borderline high,Below Average,Minimal
+1,3,0,0,0,1,0,1,1,Middle-aged,Low,Desirable,Above Average,Minimal
+1,0,0,1,0,1,1,3,0,Middle-aged,High,Borderline high,Below Average,Moderate
+1,2,0,0,0,2,2,3,0,Middle-aged,Normal,Borderline high,Above Average,Severe
+1,0,0,0,1,1,1,3,0,Middle-aged,Low,Borderline high,Below Average,Moderate
+1,0,0,0,1,2,0,3,0,Middle-aged,High,High,Below Average,Minimal
+1,0,0,0,1,2,0,3,0,Middle-aged,Normal,High,Average,Minimal
+1,2,0,1,0,2,0,2,1,Middle-aged,Low,Desirable,Below Average,Minimal
+0,2,0,1,0,1,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,0,0,0,1,2,3,2,0,Elderly,Normal,High,Average,Minimal
+1,0,0,0,1,0,1,2,0,Elderly,Low,High,Below Average,Severe
+1,3,1,0,0,0,0,1,1,Elderly,High,Borderline high,Average,Severe
+0,1,1,0,0,2,2,2,0,Middle-aged,Normal,High,Average,Minimal
+1,3,0,1,0,1,0,3,0,Middle-aged,Low,High,Below Average,Moderate
+1,2,0,1,0,2,0,2,1,Middle-aged,Low,Desirable,Below Average,Minimal
+0,0,0,0,0,0,3,3,0,Elderly,High,Desirable,Average,
+1,0,1,0,1,2,3,3,0,Elderly,Normal,High,Below Average,Moderate
+0,2,0,0,0,1,1,2,1,Elderly,High,High,Average,Minimal
+1,2,1,0,1,1,0,3,0,Elderly,High,High,Average,Moderate
+1,0,0,0,1,1,0,3,0,Middle-aged,Low,Desirable,Below Average,Moderate
+1,0,0,0,0,2,0,1,1,Elderly,High,Borderline high,Below Average,Severe
+1,3,1,0,0,0,0,1,1,Elderly,High,Borderline high,Average,Severe
+1,2,0,1,0,1,3,3,0,Middle-aged,Low,Desirable,Below Average,Moderate
+0,0,0,1,0,1,0,2,1,Elderly,Low,Desirable,Below Average,Moderate
+1,1,0,0,0,2,0,2,1,Elderly,High,High,Average,Minimal
+0,1,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,0,0,0,1,2,1,3,0,Elderly,Normal,Borderline high,Below Average,Moderate
+1,2,1,0,1,1,1,1,0,Middle-aged,Normal,High,Below Average,Minimal
+1,2,1,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,0,0,1,0,2,1,3,0,Middle-aged,Low,Borderline high,Average,Minimal
+0,0,0,0,1,1,0,2,1,Middle-aged,Normal,High,Average,Minimal
+1,2,0,1,0,1,0,2,0,Middle-aged,High,Borderline high,Average,Severe
+0,1,0,1,0,2,1,2,1,Middle-aged,Low,Desirable,Above Average,Minimal
+1,0,1,0,1,1,1,2,0,Middle-aged,Normal,High,Average,Moderate
+1,0,0,0,1,1,1,1,0,Middle-aged,High,High,Below Average,Minimal
+1,0,0,0,0,1,3,2,0,Elderly,Normal,High,Below Average,Severe
+1,3,0,0,0,1,0,3,0,Middle-aged,High,High,Average,Minimal
+0,1,0,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Moderate
+1,2,0,0,0,0,1,2,1,Middle-aged,Normal,High,Average,Minimal
+1,2,0,1,0,2,4,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+0,0,0,1,0,2,0,2,1,Elderly,Normal,Borderline high,Above Average,Minimal
+0,2,0,0,0,2,0,2,1,Elderly,High,High,Average,Minimal
+0,0,0,0,0,2,1,2,1,Middle-aged,Normal,High,Average,Minimal
+0,0,0,0,0,1,0,2,1,Middle-aged,Low,High,Below Average,Minimal
+0,0,0,1,1,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+0,1,1,0,0,2,2,2,0,Middle-aged,Normal,High,Average,Minimal
+1,0,0,0,1,1,3,3,0,Middle-aged,High,High,Average,Minimal
+0,0,0,1,1,1,0,3,0,Middle-aged,Normal,High,Below Average,Moderate
+0,2,0,1,0,2,1,2,1,Middle-aged,High,Borderline high,Above Average,Minimal
+1,2,0,1,0,2,0,2,1,Middle-aged,High,Desirable,Above Average,Moderate
+1,0,1,0,1,1,4,3,0,Middle-aged,Normal,High,Average,Minimal
+1,2,0,1,0,2,0,2,0,Middle-aged,Low,High,Average,Minimal
+1,2,0,0,0,1,0,3,0,Elderly,High,Borderline high,Average,Minimal
+0,0,0,0,0,1,3,3,0,Elderly,High,Borderline high,Below Average,Minimal
+0,2,0,1,0,2,1,2,1,Middle-aged,Low,High,Average,Minimal
+1,2,0,1,0,0,0,2,1,Middle-aged,Normal,High,Above Average,Severe
+0,2,0,0,1,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+0,0,0,1,1,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+0,0,0,1,1,1,0,2,0,Middle-aged,High,High,Average,Minimal
+1,0,0,0,1,1,2,3,0,Elderly,Low,Borderline high,Below Average,Severe
+1,2,0,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,1,0,0,0,1,0,2,0,Middle-aged,Low,High,Average,Moderate
+0,0,0,1,1,1,0,2,0,Elderly,High,High,Average,Moderate
+1,0,0,0,0,1,2,3,0,Middle-aged,Normal,High,Above Average,Moderate
+1,0,0,1,1,1,1,3,0,Middle-aged,High,High,Below Average,Moderate
+1,2,0,1,0,2,0,2,1,Middle-aged,High,Desirable,Above Average,Moderate
+1,2,0,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,1,1,1,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,2,1,0,0,2,3,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,0,0,0,1,1,1,3,0,Middle-aged,High,High,Average,Minimal
+0,2,0,0,0,2,0,2,1,Middle-aged,Low,High,Average,Minimal
+1,0,0,1,0,2,1,2,0,Middle-aged,Low,Borderline high,Average,Minimal
+0,0,0,0,0,1,3,3,0,Elderly,High,High,Average,Severe
+0,1,0,1,0,1,0,2,1,Middle-aged,Normal,High,Average,Minimal
+0,0,1,1,1,1,2,3,0,Elderly,High,Borderline high,Above Average,Minimal
+0,1,0,1,0,1,0,2,1,Middle-aged,Normal,High,Average,Minimal
+0,0,0,0,0,1,3,3,0,Elderly,High,Borderline high,Below Average,Minimal
+1,3,1,0,0,1,1,2,1,Elderly,High,Borderline high,Below Average,Minimal
+1,2,0,1,0,2,0,2,0,Middle-aged,Low,High,Average,Minimal
+0,2,0,1,0,1,0,2,1,Middle-aged,Normal,Borderline high,Average,Minimal
+1,0,0,1,0,2,0,2,1,Middle-aged,High,High,Above Average,Moderate
+1,0,0,0,1,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,2,0,0,0,1,3,3,0,Elderly,Normal,High,Average,Moderate
+1,2,1,1,0,2,2,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,3,0,0,0,1,0,1,1,Middle-aged,Low,Desirable,Above Average,Minimal
+1,0,0,1,0,2,0,3,1,Middle-aged,Low,Borderline high,Average,Minimal
+0,2,0,0,0,1,0,3,1,Elderly,Low,High,Average,Moderate
+1,2,0,1,0,2,4,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+1,1,0,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,0,0,0,1,1,1,2,0,Middle-aged,Low,High,Below Average,Minimal
+1,2,1,1,1,1,0,2,1,Elderly,High,High,Below Average,Minimal
+1,0,0,0,1,1,3,2,0,Elderly,High,High,Below Average,Moderate
+0,3,0,1,0,2,0,2,1,Middle-aged,High,High,Above Average,Minimal
+0,2,0,1,0,2,0,3,1,Elderly,Normal,High,Below Average,Minimal
+0,0,0,1,0,1,0,2,1,Middle-aged,Normal,Desirable,Below Average,Minimal
+1,2,0,0,0,1,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Moderate
+1,1,0,1,0,0,0,3,0,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,2,1,1,0,2,1,3,1,Middle-aged,High,Desirable,Above Average,Minimal
+1,0,1,0,0,1,3,3,0,Middle-aged,High,High,Below Average,Minimal
+1,2,0,0,0,1,1,3,0,Middle-aged,Normal,Borderline high,Average,Minimal
+1,2,0,0,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,0,0,0,1,1,3,3,0,Middle-aged,Normal,Borderline high,Below Average,Severe
+0,0,0,1,1,1,0,3,0,Middle-aged,Normal,High,Below Average,Moderate
+0,0,0,0,0,1,3,3,0,Elderly,High,High,Average,Severe
+1,0,0,1,1,1,3,3,0,Middle-aged,Normal,High,Below Average,Severe
+1,1,0,1,0,2,0,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+1,0,0,0,0,2,2,1,0,Elderly,Low,High,Average,Minimal
+1,1,0,0,0,1,1,3,0,Elderly,Low,High,Below Average,Moderate
+1,0,0,0,0,2,0,3,0,Middle-aged,Low,Desirable,Average,Minimal
+1,0,0,0,0,1,1,3,0,Elderly,Normal,High,Below Average,Severe
+0,1,1,0,1,2,1,2,1,Middle-aged,Normal,High,Average,Minimal
+1,2,1,1,1,1,0,2,1,Elderly,High,High,Below Average,Minimal
+0,0,0,0,0,2,1,2,1,Middle-aged,Normal,High,Average,Minimal
+1,2,0,1,0,2,0,2,1,Middle-aged,High,Desirable,Above Average,Moderate
+1,2,0,1,1,1,0,3,0,Elderly,Normal,High,Below Average,Moderate
+1,0,0,1,1,1,1,3,0,Middle-aged,Normal,High,Below Average,Moderate
+1,2,1,0,0,1,0,2,1,Middle-aged,Normal,High,Above Average,Severe
+1,0,0,1,0,1,0,3,1,Middle-aged,Normal,Borderline high,Average,Minimal
+1,2,1,0,1,1,0,3,0,Elderly,High,High,Average,Moderate
+1,1,0,0,0,2,1,2,0,Middle-aged,High,Borderline high,Above Average,Minimal
+1,0,0,1,0,2,0,2,1,Middle-aged,Normal,Borderline high,Average,Moderate
+0,2,0,0,1,0,0,2,1,Middle-aged,High,Desirable,Average,Moderate
+0,0,0,1,0,1,0,2,1,Elderly,Low,Desirable,Below Average,Moderate
+0,0,0,1,0,2,0,2,1,Middle-aged,Normal,Desirable,Above Average,Moderate
+0,2,0,0,1,0,0,2,1,Middle-aged,High,Desirable,Average,Moderate
+0,1,0,0,0,1,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,2,0,1,0,2,0,2,0,Middle-aged,Low,High,Average,Minimal
+0,2,0,1,0,1,1,2,1,Middle-aged,Low,High,Average,Minimal
+1,0,0,1,1,1,1,3,0,Elderly,Low,High,Below Average,Severe
+0,1,0,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Moderate
+0,0,1,0,1,0,2,3,0,Middle-aged,High,High,Below Average,Severe
+0,0,0,2,1,1,0,2,0,Middle-aged,High,High,Below Average,Severe
+0,1,1,0,1,2,1,2,1,Middle-aged,Normal,High,Average,Minimal
+1,0,0,0,1,1,0,3,0,Middle-aged,Low,Desirable,Below Average,Severe
+1,0,0,0,0,2,1,2,0,Middle-aged,Low,High,Average,Minimal
+1,0,0,0,1,1,1,2,0,Middle-aged,Low,Borderline high,Below Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,2,0,1,0,1,3,3,0,Middle-aged,Low,Desirable,Below Average,Moderate
+1,0,0,0,1,1,2,3,0,Middle-aged,Normal,Borderline high,Below Average,Severe
+0,1,0,1,0,2,1,2,1,Middle-aged,Low,Desirable,Above Average,Minimal
+1,2,0,1,0,1,3,3,0,Middle-aged,Low,Desirable,Below Average,Moderate
+1,0,0,1,0,2,1,3,0,Elderly,High,Borderline high,Average,Minimal
+1,0,0,1,1,2,1,3,0,Middle-aged,Normal,Desirable,Average,Minimal
+1,1,0,1,0,1,4,3,1,Middle-aged,Normal,Borderline high,Average,Minimal
+0,2,0,1,0,2,1,2,1,Elderly,High,High,Above Average,Minimal
+1,0,0,1,0,2,1,3,0,Elderly,High,Borderline high,Average,Minimal
+1,2,0,0,0,1,1,3,0,Middle-aged,Low,Borderline high,Above Average,Severe
+0,2,0,0,0,2,0,2,1,Middle-aged,Normal,High,Average,Minimal
+0,0,0,0,0,0,3,3,0,Elderly,High,Desirable,Average,
+0,0,0,1,0,2,0,2,1,Elderly,Normal,Borderline high,Above Average,Minimal
+1,3,0,0,0,0,0,3,1,Middle-aged,High,High,Average,Severe
+1,3,1,0,0,1,1,2,1,Elderly,High,Borderline high,Below Average,Minimal
+0,0,0,0,0,1,2,3,0,Middle-aged,High,High,Average,Severe
+0,2,0,1,0,2,0,2,1,Elderly,High,High,Average,Minimal
+0,0,0,1,1,1,0,2,0,Elderly,Normal,Desirable,Below Average,Minimal
+0,0,0,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Average,Minimal
+0,2,0,0,0,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+0,2,0,2,0,1,0,2,1,Elderly,Normal,Desirable,Below Average,Moderate
+0,2,0,1,0,1,0,2,1,Middle-aged,Low,Borderline high,Average,Moderate
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+1,0,0,0,0,2,0,3,0,Middle-aged,Low,High,Average,Minimal
+1,3,0,0,0,1,0,3,1,Elderly,High,Borderline high,Average,Minimal
+1,0,0,0,1,1,2,3,0,Middle-aged,Normal,High,Below Average,Severe
+1,2,0,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+0,0,0,0,0,1,0,2,1,Elderly,Normal,High,Average,Moderate
+1,3,0,1,0,2,2,2,0,Middle-aged,Normal,Borderline high,Average,Minimal
+1,2,0,0,0,0,1,2,1,Middle-aged,Normal,High,Average,Minimal
+1,1,0,1,0,0,0,3,0,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,0,0,0,0,1,3,2,0,Elderly,Normal,High,Below Average,Severe
+0,0,0,1,0,2,2,2,1,Elderly,Low,Borderline high,Below Average,Minimal
+0,2,0,0,0,2,0,2,1,Middle-aged,Low,High,Average,Minimal
+1,2,0,1,0,2,1,3,1,Elderly,Low,High,Average,Minimal
+1,2,0,0,0,1,3,3,0,Elderly,Normal,High,Average,Moderate
+1,0,0,0,1,1,2,2,0,Middle-aged,Normal,High,Below Average,Severe
+0,0,1,0,1,1,0,3,0,Middle-aged,Normal,High,Below Average,Severe
+1,2,1,0,0,0,0,2,1,Middle-aged,Normal,Desirable,Average,Moderate
+1,0,0,1,0,2,1,3,0,Middle-aged,Low,Borderline high,Average,Minimal
+1,0,1,1,0,1,2,3,0,Elderly,Normal,High,Above Average,Minimal
+1,0,0,1,1,2,1,3,0,Middle-aged,Normal,Desirable,Average,Minimal
+1,0,0,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+0,2,0,1,0,2,0,2,1,Middle-aged,Low,Desirable,Above Average,Minimal
+1,0,0,1,0,1,0,2,0,Elderly,Low,Borderline high,Below Average,Minimal
+0,0,0,1,0,1,0,2,1,Middle-aged,Normal,Desirable,Below Average,Minimal
+0,2,0,1,0,2,0,2,1,Elderly,High,High,Average,Minimal
+0,2,0,1,0,1,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,0,0,0,0,2,1,2,0,Middle-aged,Low,High,Average,Minimal
+1,0,0,0,1,1,1,1,0,Middle-aged,Normal,Desirable,Below Average,Severe
+0,0,0,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Average,Minimal
+0,0,0,0,0,2,0,2,1,Middle-aged,Low,High,Average,Minimal
+1,2,0,0,0,1,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Moderate
+0,2,0,1,0,2,1,2,1,Middle-aged,High,Borderline high,Above Average,Minimal
+1,2,1,1,0,0,0,3,1,Middle-aged,Low,High,Above Average,Minimal
+0,2,1,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,0,0,0,1,1,2,3,0,Middle-aged,High,High,Below Average,Severe
+1,3,0,0,0,2,0,2,1,Middle-aged,Low,Desirable,Above Average,Minimal
+1,0,0,0,0,2,1,2,0,Middle-aged,Low,High,Average,Minimal
+1,0,0,0,1,1,1,3,0,Middle-aged,Normal,High,Below Average,Severe
+1,0,0,1,0,2,0,2,1,Middle-aged,High,High,Above Average,Moderate
+1,3,1,1,0,1,0,3,1,Middle-aged,High,High,Above Average,Moderate
+1,0,0,0,0,1,3,2,0,Elderly,Normal,High,Below Average,Severe
+0,0,0,0,0,1,0,2,1,Elderly,Normal,High,Average,Moderate
+1,0,0,1,0,1,1,3,0,Middle-aged,High,Borderline high,Below Average,Moderate
+1,1,1,1,0,2,0,3,1,Middle-aged,Low,Desirable,Average,Minimal
+1,2,0,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Normal,High,Average,Minimal
+1,0,0,0,1,1,0,3,0,Middle-aged,Low,Desirable,Below Average,Severe
+1,0,0,1,1,1,1,3,0,Middle-aged,Normal,High,Below Average,Moderate
+1,3,0,1,1,2,0,3,1,Middle-aged,Normal,Desirable,Above Average,Moderate
+1,2,0,1,1,1,0,3,0,Elderly,Normal,High,Below Average,Moderate
+1,0,1,0,0,1,2,1,0,Middle-aged,High,Desirable,Below Average,Minimal
+0,0,0,0,1,1,0,3,0,Elderly,High,High,Average,Minimal
+1,0,0,0,1,1,2,2,0,Middle-aged,Normal,High,Below Average,Severe
+0,1,0,0,1,2,1,2,1,Elderly,Low,High,Below Average,Minimal
+0,0,0,1,1,1,2,2,0,Elderly,Low,High,Above Average,Moderate
+1,2,0,1,1,1,1,3,0,Elderly,High,High,Below Average,Severe
+0,0,0,1,1,1,2,2,0,Elderly,Low,High,Above Average,Moderate
+1,0,0,0,0,1,2,1,0,Elderly,High,Borderline high,Below Average,Moderate
+1,0,0,1,0,2,1,3,0,Elderly,High,Borderline high,Average,Minimal
+1,1,0,1,1,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,2,0,1,0,2,4,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+1,1,0,0,0,1,0,2,0,Middle-aged,Low,High,Average,Moderate
+0,1,0,1,0,2,2,2,1,Elderly,Normal,Desirable,Above Average,Minimal
+0,2,0,1,0,1,1,3,0,Elderly,Normal,High,Below Average,Moderate
+1,0,0,1,1,1,2,3,0,Middle-aged,Normal,High,Below Average,Moderate
+0,2,0,1,0,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+0,1,0,1,0,2,2,2,1,Elderly,Normal,Desirable,Above Average,Minimal
+1,2,0,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+0,2,1,0,0,2,1,2,1,Elderly,Low,High,Below Average,Minimal
+1,0,0,0,1,2,1,2,0,Elderly,Low,Borderline high,Below Average,Minimal
+1,0,0,1,1,1,0,1,0,Middle-aged,Normal,High,Below Average,Moderate
+1,0,0,0,0,1,2,1,0,Elderly,High,Borderline high,Below Average,Moderate
+0,0,0,2,1,1,0,2,0,Middle-aged,High,High,Below Average,Severe
+0,0,1,0,1,1,0,3,0,Middle-aged,Normal,High,Below Average,Severe
+0,0,0,2,1,1,1,3,0,Middle-aged,Normal,Borderline high,Below Average,Moderate
+0,0,1,0,1,1,2,1,0,Middle-aged,High,Borderline high,Average,Severe
+1,0,0,1,1,0,0,3,0,Middle-aged,Normal,Borderline high,Below Average,Severe
+0,0,0,1,1,1,0,3,0,Middle-aged,Normal,High,Below Average,Moderate
+0,2,0,1,0,1,0,2,1,Middle-aged,Low,Borderline high,Average,Moderate
+1,0,0,1,0,1,0,2,1,Middle-aged,Low,High,Above Average,Moderate
+0,1,0,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,0,0,0,0,2,2,1,0,Elderly,Low,High,Average,Minimal
+1,0,0,1,1,1,1,3,0,Middle-aged,High,High,Below Average,Moderate
+1,0,1,0,1,2,2,3,0,Middle-aged,Normal,High,Average,Minimal
+0,0,1,1,0,1,3,2,0,Elderly,Normal,High,Below Average,Moderate
+1,3,0,1,0,1,2,2,0,Elderly,Normal,Borderline high,Average,Severe
+1,3,0,0,0,0,0,3,1,Middle-aged,High,High,Average,Severe
+1,2,0,0,0,1,3,3,0,Elderly,Normal,High,Average,Moderate
+1,2,0,0,0,2,2,3,0,Middle-aged,Normal,Borderline high,Above Average,Severe
+1,3,0,1,1,1,0,3,0,Middle-aged,Low,Borderline high,Above Average,Severe
+0,3,0,1,0,2,2,2,1,Elderly,Normal,Borderline high,Average,Moderate
+1,3,1,0,0,1,1,2,0,Elderly,Normal,High,Above Average,Moderate
+1,3,0,1,0,1,0,3,0,Middle-aged,Low,High,Below Average,Moderate
+1,1,0,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+0,1,0,0,0,1,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,0,0,0,1,1,1,2,0,Elderly,Normal,Desirable,Below Average,Severe
+1,0,0,1,0,2,2,3,0,Middle-aged,Normal,Borderline high,Above Average,Minimal
+0,0,0,0,0,1,0,2,1,Middle-aged,Normal,High,Average,Minimal
+0,0,0,1,1,1,0,2,0,Middle-aged,High,High,Average,Minimal
+0,2,0,1,0,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+1,3,1,0,0,1,1,2,0,Elderly,Normal,High,Above Average,Moderate
+0,0,0,1,0,1,0,2,1,Middle-aged,Normal,Desirable,Below Average,Minimal
+0,0,0,0,1,1,0,2,1,Middle-aged,Normal,High,Average,Minimal
+0,0,0,0,1,1,2,3,0,Middle-aged,Normal,High,Average,Moderate
+1,0,0,1,1,1,1,3,1,Elderly,Normal,High,Below Average,Minimal
+1,0,0,1,0,2,0,3,1,Elderly,Low,Desirable,Below Average,Minimal
+1,2,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,0,0,0,0,1,0,3,0,Middle-aged,High,High,Below Average,Severe
+1,2,0,1,0,2,0,2,0,Middle-aged,Low,High,Average,Minimal
+0,0,0,1,0,1,2,2,1,Elderly,Normal,High,Below Average,Moderate
+0,0,0,1,0,1,0,2,1,Elderly,Low,Desirable,Below Average,Moderate
+0,1,0,0,0,1,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,0,0,1,1,1,2,3,0,Elderly,Low,High,Below Average,Moderate
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,Desirable,Above Average,Minimal
+0,3,0,1,0,0,0,2,1,Elderly,High,Borderline high,Below Average,Severe
+1,0,1,0,1,0,0,3,0,Middle-aged,Normal,High,Below Average,Moderate
+0,1,0,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Average,Minimal
+0,1,0,0,0,1,1,2,0,Middle-aged,Normal,Borderline high,Above Average,Minimal
+0,2,0,1,0,1,0,2,1,Middle-aged,Normal,Borderline high,Average,Minimal
+1,2,0,1,1,1,0,3,0,Elderly,Normal,High,Below Average,Moderate
+1,0,0,0,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,0,0,0,1,1,1,2,0,Elderly,Normal,Desirable,Below Average,Severe
+1,0,0,2,0,0,3,1,0,Middle-aged,Low,High,Below Average,Severe
+1,0,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Average,Minimal
+0,0,0,0,0,1,0,2,1,Middle-aged,Low,High,Below Average,Minimal
+0,3,0,1,0,0,0,2,1,Elderly,High,Borderline high,Below Average,Severe
+0,2,1,0,0,2,1,2,1,Elderly,Normal,High,Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+1,1,0,1,0,2,0,3,0,Middle-aged,Normal,High,Below Average,Minimal
+1,1,0,0,0,2,0,2,1,Young,Normal,Borderline high,Above Average,Minimal
+1,1,0,1,1,1,3,1,0,Elderly,High,High,Below Average,Minimal
+0,0,0,0,0,2,0,2,0,Elderly,Normal,High,Above Average,Minimal
+1,0,0,1,0,2,2,3,0,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,2,0,1,0,2,1,3,1,Elderly,Low,High,Average,Minimal
+1,2,0,0,0,1,0,3,1,Middle-aged,Low,High,Average,Minimal
+1,0,1,0,1,2,3,3,0,Elderly,Normal,High,Below Average,Moderate
+1,0,0,1,0,2,1,3,0,Middle-aged,Low,Borderline high,Average,Minimal
+1,0,0,1,1,2,1,3,0,Middle-aged,Normal,High,Average,Moderate
+1,0,0,0,0,1,1,3,0,Elderly,Normal,High,Average,Moderate
+0,2,0,0,1,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+1,2,1,0,1,1,0,3,0,Elderly,High,High,Average,Moderate
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,High,Average,Minimal
+1,0,0,0,1,0,0,3,0,Middle-aged,High,High,Below Average,Severe
+1,0,1,0,0,1,2,1,0,Middle-aged,High,Desirable,Below Average,Minimal
+1,0,0,0,1,1,0,3,0,Middle-aged,Low,Desirable,Below Average,Severe
+1,2,0,0,0,1,0,2,0,Middle-aged,Normal,Desirable,Average,Severe
+0,0,0,0,0,1,3,3,0,Elderly,High,High,Average,Severe
+1,0,1,1,1,1,0,0,0,Middle-aged,Normal,Borderline high,Average,Minimal
+1,0,0,0,0,2,2,3,0,Middle-aged,Normal,High,Above Average,Minimal
+0,0,1,0,1,0,2,3,0,Middle-aged,High,High,Below Average,Severe
+0,2,1,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,2,0,0,1,1,0,3,1,Middle-aged,Low,High,Average,Minimal
+0,1,0,0,0,1,0,2,1,Middle-aged,Normal,High,Average,Moderate
+1,0,1,0,1,0,0,3,0,Middle-aged,Normal,Borderline high,Average,Severe
+0,1,0,1,0,2,2,2,1,Elderly,Normal,Desirable,Above Average,Minimal
+1,0,0,1,0,1,0,3,0,Middle-aged,Low,Borderline high,Below Average,Moderate
+1,0,0,0,1,2,0,3,0,Middle-aged,Normal,High,Average,Minimal
+0,2,0,1,0,1,0,2,1,Middle-aged,Low,Borderline high,Average,Moderate
+1,2,0,0,0,1,0,3,0,Elderly,High,Borderline high,Average,Minimal
+1,0,0,0,1,2,1,2,0,Elderly,Low,Borderline high,Below Average,Minimal
+1,0,0,0,1,2,0,3,0,Middle-aged,Normal,High,Average,Minimal
+1,2,0,0,0,1,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Moderate
+1,0,0,1,1,1,0,3,0,Middle-aged,Low,Desirable,Below Average,Moderate
+0,1,0,1,0,2,2,2,1,Elderly,High,High,Average,Minimal
+1,0,0,1,1,1,0,1,1,Middle-aged,Low,Borderline high,Below Average,Moderate
+1,2,0,1,1,2,1,3,1,Middle-aged,Low,Borderline high,Average,Minimal
+1,0,0,0,1,1,3,3,0,Middle-aged,Normal,Borderline high,Below Average,Severe
+1,2,0,0,0,1,1,3,0,Middle-aged,Normal,Borderline high,Average,Minimal
+0,1,0,0,0,1,0,2,1,Middle-aged,Normal,High,Average,Moderate
+0,2,1,1,0,2,0,2,1,Middle-aged,Low,Desirable,Below Average,Minimal
+1,3,0,1,0,1,0,3,0,Middle-aged,Low,High,Below Average,Moderate
+1,1,0,0,0,2,0,3,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,0,0,1,1,1,0,3,0,Middle-aged,Low,Desirable,Below Average,Moderate
+0,1,0,1,0,1,0,2,1,Middle-aged,Low,Desirable,Below Average,Minimal
+0,3,0,1,0,0,0,2,1,Elderly,High,Borderline high,Below Average,Severe
+1,3,0,0,1,2,1,2,1,Middle-aged,Normal,Borderline high,Below Average,Moderate
+1,1,0,0,0,2,0,2,1,Elderly,High,High,Average,Minimal
+0,0,0,2,1,1,1,3,0,Middle-aged,Normal,Borderline high,Below Average,Moderate
+1,2,1,0,1,1,1,1,0,Middle-aged,Normal,High,Below Average,Minimal
+0,1,0,0,0,1,0,2,1,Middle-aged,Normal,High,Average,Moderate
+1,0,1,1,0,2,3,3,1,Middle-aged,Low,Borderline high,Average,Minimal
+1,2,0,1,0,2,0,2,0,Elderly,Normal,High,Average,Minimal
+1,0,0,0,0,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+0,2,0,1,0,2,1,2,1,Elderly,High,High,Above Average,Minimal
+0,2,0,0,0,1,0,2,1,Elderly,Low,Borderline high,Below Average,Moderate
+0,1,0,0,1,2,1,2,1,Elderly,Low,High,Below Average,Minimal
+0,0,0,0,0,1,2,3,0,Middle-aged,High,High,Average,Severe
+1,0,0,0,0,1,0,3,0,Middle-aged,Normal,High,Above Average,Minimal
+1,1,0,0,0,2,0,3,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,0,0,1,1,1,2,3,0,Middle-aged,Normal,High,Below Average,Moderate
+0,1,0,0,0,1,0,2,1,Middle-aged,Normal,High,Average,Moderate
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,0,0,1,0,2,1,2,0,Middle-aged,Low,Borderline high,Average,Minimal
+1,2,0,1,1,2,1,3,1,Middle-aged,Low,Borderline high,Average,Minimal
+0,2,0,1,0,1,0,2,1,Middle-aged,Low,Desirable,Above Average,Minimal
+1,0,1,1,1,1,0,0,0,Middle-aged,Normal,Borderline high,Average,Minimal
+1,2,0,1,0,2,0,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+1,0,0,0,1,1,1,3,0,Middle-aged,Low,Borderline high,Below Average,Moderate
+1,0,0,0,1,1,2,3,0,Elderly,Low,Borderline high,Below Average,Severe
+1,0,0,0,0,2,2,3,0,Middle-aged,Normal,High,Above Average,Minimal
+1,0,0,1,1,2,1,3,0,Middle-aged,Normal,High,Average,Minimal
+1,2,0,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+0,2,0,0,1,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+1,0,1,0,1,2,3,3,0,Elderly,Normal,High,Below Average,Moderate
+1,1,0,1,0,1,4,3,1,Middle-aged,Normal,Borderline high,Average,Minimal
+0,2,0,1,0,2,1,2,1,Middle-aged,Low,High,Average,Minimal
+1,2,0,1,1,1,0,2,1,Middle-aged,Low,Borderline high,Average,Moderate
+1,2,0,1,0,2,0,2,0,Elderly,Normal,High,Average,Minimal
+1,0,1,1,1,2,2,3,0,Middle-aged,Low,Borderline high,Average,Moderate
+1,2,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,1,0,1,0,1,4,3,1,Middle-aged,Normal,Borderline high,Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Normal,High,Average,Minimal
+0,2,0,0,0,2,0,2,1,Elderly,High,High,Average,Minimal
+1,1,0,0,0,1,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,0,0,1,0,2,0,3,1,Elderly,Low,Desirable,Below Average,Minimal
+0,2,0,0,0,2,0,2,1,Middle-aged,Normal,High,Average,Minimal
+1,2,1,1,0,2,2,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,0,0,0,1,0,1,2,0,Elderly,Low,High,Below Average,Severe
+1,0,0,0,0,2,0,1,1,Elderly,High,Borderline high,Below Average,Severe
+0,1,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+0,0,0,0,0,2,0,2,0,Elderly,Normal,High,Above Average,Minimal
+1,0,0,0,1,1,1,1,0,Middle-aged,High,High,Below Average,Minimal
+0,0,0,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,1,0,0,0,2,0,3,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+0,3,1,0,0,2,0,2,1,Middle-aged,High,High,Average,Minimal
+1,0,0,0,1,2,2,3,0,Elderly,Normal,Desirable,Average,Severe
+1,0,0,1,1,1,1,3,0,Middle-aged,Low,High,Average,Severe
+1,0,0,1,1,1,1,3,0,Middle-aged,Low,High,Average,Severe
+1,0,1,1,0,1,2,3,0,Elderly,High,Desirable,Below Average,Severe
+1,1,1,1,0,2,0,3,1,Middle-aged,Low,Desirable,Average,Minimal
+0,2,1,0,0,2,1,2,1,Elderly,Low,High,Below Average,Minimal
+1,1,0,1,0,1,0,1,1,Middle-aged,Normal,Borderline high,Below Average,Minimal
+0,0,0,0,1,1,0,2,1,Middle-aged,Normal,Borderline high,Average,Minimal
+0,0,0,1,1,1,0,2,0,Elderly,High,High,Average,Moderate
+0,0,0,0,0,1,3,3,0,Elderly,High,Borderline high,Below Average,Minimal
+0,2,0,1,0,2,0,2,1,Middle-aged,Normal,High,Below Average,Minimal
+1,2,0,1,1,1,0,2,1,Middle-aged,Low,Borderline high,Average,Moderate
+0,0,0,0,1,1,0,3,0,Elderly,High,High,Average,Minimal
+1,0,0,1,1,1,2,3,0,Middle-aged,Normal,High,Below Average,Moderate
+1,3,0,1,0,2,2,2,0,Middle-aged,Normal,Borderline high,Average,Minimal
+0,1,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,0,0,1,1,0,0,1,0,Middle-aged,Low,Desirable,Average,Severe
+1,0,0,1,0,1,1,3,0,Middle-aged,High,Borderline high,Below Average,Moderate
+0,0,0,1,0,1,2,2,1,Elderly,Normal,High,Below Average,Moderate
+1,1,0,1,0,0,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+1,2,0,0,0,2,0,3,1,Middle-aged,High,Borderline high,Above Average,Moderate
+1,0,0,0,1,1,1,3,0,Middle-aged,High,High,Average,Minimal
+1,0,1,1,0,1,2,3,0,Elderly,Normal,High,Above Average,Minimal
+1,0,0,1,1,1,3,3,0,Middle-aged,Normal,High,Below Average,Severe
+0,0,1,1,0,1,3,2,0,Elderly,Normal,High,Below Average,Moderate
+1,1,0,0,0,1,1,3,0,Elderly,Low,High,Below Average,Moderate
+1,0,0,1,1,1,1,3,0,Middle-aged,Low,Borderline high,Below Average,Severe
+1,0,0,1,1,1,1,3,0,Middle-aged,Low,Borderline high,Below Average,Severe
+1,0,1,1,0,1,2,3,0,Elderly,High,Desirable,Below Average,Severe
+0,2,1,1,0,2,0,2,1,Middle-aged,Low,Desirable,Below Average,Minimal
+1,3,0,1,0,1,2,2,0,Elderly,Normal,Borderline high,Average,Severe
+1,1,1,0,0,2,0,2,1,Elderly,Normal,Borderline high,Below Average,Minimal
+1,1,0,1,0,1,0,1,1,Middle-aged,Normal,Borderline high,Below Average,Minimal
+0,0,0,0,0,1,3,3,0,Elderly,High,Borderline high,Below Average,Minimal
+1,3,0,0,0,1,0,3,0,Middle-aged,High,High,Average,Minimal
+1,0,0,1,0,1,0,2,1,Middle-aged,Low,High,Above Average,Moderate
+1,0,0,0,1,1,2,3,0,Elderly,Low,Borderline high,Below Average,Severe
+1,3,1,0,0,0,0,1,1,Elderly,High,Borderline high,Average,Severe
+0,0,0,1,1,1,0,2,0,Elderly,Normal,Desirable,Below Average,Minimal
+1,0,0,1,0,2,1,2,0,Middle-aged,Low,Borderline high,Average,Minimal
+0,0,0,1,0,1,0,2,1,Middle-aged,Normal,Desirable,Below Average,Minimal
+1,0,0,0,1,2,0,3,1,Middle-aged,High,Borderline high,Below Average,Minimal
+1,0,0,0,1,1,1,1,0,Middle-aged,High,High,Below Average,Minimal
+1,2,0,1,1,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,2,0,1,1,2,1,3,1,Middle-aged,Low,Borderline high,Average,Minimal
+0,2,0,1,0,1,0,2,1,Middle-aged,Low,Borderline high,Average,Moderate
+1,0,0,0,1,1,0,3,0,Middle-aged,Low,Desirable,Below Average,Moderate
+1,1,0,1,0,2,0,3,0,Middle-aged,Normal,High,Below Average,Minimal
+0,0,0,0,0,0,2,2,0,Elderly,Normal,High,Average,Severe
+1,0,1,0,1,0,0,3,0,Middle-aged,Normal,Borderline high,Average,Severe
+1,1,1,0,0,2,0,2,1,Elderly,Normal,Borderline high,Below Average,Minimal
+1,2,0,0,1,1,0,3,1,Middle-aged,Low,High,Average,Minimal
+1,1,0,0,0,2,0,2,1,Elderly,High,High,Average,Minimal
+1,0,0,0,0,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+1,3,0,0,0,2,2,2,1,Middle-aged,High,High,Above Average,Minimal
+0,0,1,0,1,1,2,1,0,Middle-aged,High,Borderline high,Average,Severe
+1,0,0,0,1,2,1,3,0,Elderly,Normal,Borderline high,Below Average,Moderate
+0,0,0,0,0,0,2,2,0,Elderly,Normal,High,Average,Severe
+1,0,0,1,1,2,1,3,0,Middle-aged,Normal,High,Average,Moderate
+1,0,0,1,0,2,0,2,1,Middle-aged,Normal,Borderline high,Average,Moderate
+1,0,0,0,1,1,1,2,0,Elderly,Normal,Desirable,Below Average,Severe
+0,2,0,0,0,2,0,2,1,Elderly,Normal,High,Above Average,Minimal
+1,2,0,1,0,2,0,2,1,Middle-aged,Normal,Desirable,Average,Minimal
+1,2,0,0,0,1,1,3,0,Middle-aged,Normal,Borderline high,Average,Minimal
+1,2,0,1,1,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,0,0,0,1,1,1,3,0,Middle-aged,Normal,High,Below Average,Severe
+1,2,0,1,1,1,0,2,1,Middle-aged,Low,Borderline high,Average,Moderate
+1,1,0,1,0,1,4,3,1,Middle-aged,Normal,Borderline high,Average,Minimal
+1,2,0,1,0,2,1,3,1,Elderly,Low,High,Average,Minimal
+1,0,0,1,1,0,0,3,0,Middle-aged,Normal,Borderline high,Below Average,Severe
+1,0,0,1,1,1,0,1,0,Middle-aged,Normal,High,Below Average,Moderate
+1,2,0,0,0,2,3,2,0,Middle-aged,Low,Desirable,Below Average,Minimal
+0,0,0,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Average,Minimal
+1,2,1,1,0,2,0,3,1,Middle-aged,High,Desirable,Average,Minimal
+1,3,0,0,1,2,1,2,1,Middle-aged,Normal,Borderline high,Below Average,Moderate
+1,0,0,0,1,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,0,0,1,1,0,0,3,0,Elderly,High,Desirable,Below Average,Severe
+0,0,0,1,0,2,0,2,1,Middle-aged,Normal,Desirable,Above Average,Moderate
+1,2,0,0,0,1,1,3,0,Middle-aged,Low,Borderline high,Above Average,Severe
+1,3,0,0,0,2,0,2,0,Middle-aged,High,High,Below Average,Minimal
+1,0,0,0,0,1,2,3,0,Middle-aged,Normal,High,Above Average,Moderate
+1,0,0,0,1,1,1,1,0,Middle-aged,Normal,Desirable,Below Average,Severe
+0,0,0,1,0,2,0,2,1,Middle-aged,Normal,Desirable,Above Average,Moderate
+1,0,0,0,1,1,1,2,0,Elderly,Normal,Desirable,Below Average,Severe
+0,3,1,0,0,2,0,2,1,Middle-aged,High,High,Average,Minimal
+1,0,0,1,1,2,1,3,0,Middle-aged,Normal,High,Average,Minimal
+1,1,0,0,0,1,0,2,0,Middle-aged,Low,High,Average,Moderate
+1,2,0,1,0,0,0,2,1,Middle-aged,Normal,High,Above Average,Severe
+1,0,0,1,1,2,1,3,0,Middle-aged,Normal,High,Average,Minimal
+1,0,0,0,1,1,2,3,0,Elderly,Low,Borderline high,Below Average,Severe
+1,3,1,0,0,1,1,2,0,Elderly,Normal,High,Above Average,Moderate
+1,1,1,1,0,2,0,3,1,Middle-aged,Low,Desirable,Average,Minimal
+0,2,0,0,0,1,0,2,1,Elderly,Low,Borderline high,Below Average,Moderate
+1,0,0,1,0,1,0,2,1,Middle-aged,Low,High,Above Average,Moderate
+0,2,0,0,0,1,0,2,1,Elderly,Low,Borderline high,Below Average,Moderate
+1,0,0,1,1,2,0,3,0,Middle-aged,Normal,High,Above Average,Moderate
+1,0,0,1,0,2,1,2,0,Middle-aged,Low,Borderline high,Average,Minimal
+1,2,0,1,0,2,0,2,0,Elderly,Normal,High,Average,Minimal
+1,3,0,0,0,1,0,3,0,Middle-aged,High,High,Average,Minimal
+1,0,0,1,0,2,2,3,0,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,3,0,0,0,2,0,2,0,Middle-aged,High,High,Below Average,Minimal
+0,3,0,1,0,2,0,2,1,Middle-aged,High,High,Above Average,Minimal
+1,2,0,1,0,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Average,Minimal
+1,1,0,1,0,0,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+0,2,0,1,0,2,0,2,1,Middle-aged,Normal,High,Below Average,Minimal
+1,2,0,0,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,3,0,0,0,1,0,3,1,Elderly,High,Borderline high,Average,Minimal
+1,0,0,1,0,1,0,1,1,Middle-aged,Normal,Desirable,Average,Minimal
+1,3,0,0,0,2,0,2,0,Middle-aged,High,High,Below Average,Minimal
+1,0,0,0,1,1,2,3,0,Middle-aged,Normal,Borderline high,Below Average,Severe
+1,0,0,0,1,2,1,3,0,Elderly,Normal,Borderline high,Below Average,Moderate
+0,2,0,1,0,1,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,0,0,1,0,1,1,3,0,Middle-aged,Low,Desirable,Below Average,Moderate
+1,0,0,0,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,0,0,1,1,2,0,3,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,1,0,0,0,2,1,2,0,Middle-aged,High,Borderline high,Above Average,Minimal
+1,0,0,1,1,1,1,3,0,Middle-aged,Normal,Desirable,Below Average,Moderate
+1,0,0,0,0,1,0,3,0,Middle-aged,Normal,High,Above Average,Minimal
+1,0,0,1,1,0,0,3,0,Elderly,High,Desirable,Below Average,Severe
+1,0,1,0,0,1,3,3,0,Middle-aged,High,High,Below Average,Minimal
+1,0,0,1,1,1,1,3,0,Elderly,Low,High,Below Average,Severe
+1,0,0,1,1,1,0,1,1,Middle-aged,Low,Borderline high,Below Average,Moderate
+0,0,0,0,0,1,2,3,0,Middle-aged,High,High,Average,Severe
+0,0,0,0,0,1,3,3,0,Elderly,High,High,Average,Severe
+0,0,0,2,1,1,1,3,0,Middle-aged,Normal,Borderline high,Below Average,Moderate
+0,0,0,1,1,2,0,2,1,Elderly,High,High,Average,Minimal
+1,0,0,1,1,1,1,3,0,Middle-aged,Low,Borderline high,Below Average,Severe
+1,0,1,1,1,1,0,0,0,Middle-aged,Normal,Borderline high,Average,Minimal
+1,0,0,1,1,2,0,3,0,Middle-aged,Normal,High,Above Average,Moderate
+0,2,0,1,0,1,1,3,0,Elderly,Normal,High,Below Average,Moderate
+1,3,0,0,0,0,0,3,1,Middle-aged,High,High,Average,Severe
+1,1,0,1,0,2,1,2,1,Middle-aged,Normal,Borderline high,Average,Minimal
+0,0,0,0,0,1,0,2,1,Middle-aged,Low,High,Below Average,Minimal
+1,0,0,1,0,1,0,3,1,Middle-aged,Normal,Borderline high,Average,Minimal
+1,3,0,1,0,1,2,2,0,Elderly,Normal,Borderline high,Average,Severe
+0,0,0,0,0,1,0,2,1,Middle-aged,Low,High,Below Average,Minimal
+0,0,0,0,0,0,2,2,0,Elderly,Normal,High,Average,Severe
+1,2,1,1,0,1,1,1,0,Middle-aged,Normal,Borderline high,Below Average,Severe
+1,1,0,1,0,2,0,2,1,Middle-aged,Normal,High,Average,Minimal
+1,0,0,0,1,0,1,2,0,Elderly,Low,High,Below Average,Severe
+1,0,0,1,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+0,1,0,1,0,2,0,2,1,Middle-aged,Low,High,Average,Moderate
+1,0,0,1,1,1,2,3,0,Elderly,Low,High,Below Average,Moderate
+1,0,0,0,1,1,0,3,0,Middle-aged,High,Desirable,Below Average,Minimal
+1,2,0,1,0,1,1,3,0,Middle-aged,Normal,Borderline high,Above Average,Minimal
+0,1,1,0,0,2,2,2,0,Middle-aged,Normal,High,Average,Minimal
+1,0,0,1,1,1,0,3,0,Middle-aged,Low,Desirable,Below Average,Moderate
+1,0,0,0,1,1,0,2,1,Middle-aged,Low,Borderline high,Average,Severe
+1,0,0,0,1,2,1,2,0,Elderly,Low,Borderline high,Below Average,Minimal
+1,0,0,0,0,2,0,3,0,Middle-aged,Low,High,Average,Minimal
+1,0,0,0,0,1,1,3,0,Elderly,Normal,High,Below Average,Severe
+1,2,0,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,3,0,1,0,2,2,2,0,Middle-aged,Normal,Borderline high,Average,Minimal
+1,3,0,1,1,1,0,3,0,Middle-aged,Low,Borderline high,Above Average,Severe
+1,0,0,1,0,1,0,3,0,Middle-aged,Low,Borderline high,Below Average,Moderate
+1,0,0,1,0,1,1,3,0,Middle-aged,High,Borderline high,Below Average,Moderate
+1,1,0,1,0,2,0,3,1,Middle-aged,Low,High,Above Average,Minimal
+1,0,0,1,0,2,0,2,1,Middle-aged,Normal,Borderline high,Average,Moderate
+0,0,0,0,0,2,0,2,0,Elderly,Normal,High,Above Average,Minimal
+1,0,0,1,1,1,1,3,0,Middle-aged,Normal,Desirable,Below Average,Moderate
+1,0,0,0,1,1,1,2,0,Middle-aged,Low,Borderline high,Below Average,Minimal
+1,2,1,1,0,0,0,3,1,Middle-aged,Low,High,Above Average,Minimal
+1,0,0,0,1,1,1,3,0,Middle-aged,Normal,High,Below Average,Severe
+1,0,0,0,1,1,2,3,0,Middle-aged,Normal,Borderline high,Below Average,Severe
+1,0,0,0,0,1,1,3,0,Elderly,Normal,High,Below Average,Severe
+1,0,0,1,0,2,0,3,0,Middle-aged,High,Borderline high,Above Average,Minimal
+0,2,0,0,0,2,1,2,1,Middle-aged,Normal,High,Below Average,Moderate
+1,3,0,1,1,1,0,3,0,Middle-aged,Low,Borderline high,Above Average,Severe
+1,2,0,1,0,2,0,2,1,Middle-aged,Normal,Desirable,Average,Minimal
+1,1,0,1,0,0,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+1,2,0,1,0,2,1,2,1,Middle-aged,Normal,High,Average,Moderate
+1,2,0,1,0,2,0,2,0,Elderly,Normal,High,Average,Minimal
+1,0,0,0,1,2,0,3,1,Middle-aged,High,Borderline high,Below Average,Minimal
+0,1,0,1,0,1,0,2,1,Middle-aged,Normal,High,Average,Minimal
+0,0,0,1,1,1,0,3,0,Middle-aged,Normal,High,Below Average,Minimal
+0,2,0,0,0,1,0,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+0,3,0,1,0,2,2,2,1,Elderly,Normal,Borderline high,Average,Moderate
+1,0,0,1,0,2,0,3,1,Elderly,Low,Desirable,Below Average,Minimal
+0,0,1,1,1,1,2,3,0,Elderly,High,Borderline high,Above Average,Minimal
+1,3,0,0,0,1,0,3,1,Middle-aged,Low,Desirable,Average,Moderate
+0,2,0,1,0,2,1,2,1,Elderly,High,High,Above Average,Minimal
+0,2,0,1,0,2,1,2,1,Middle-aged,High,Borderline high,Above Average,Minimal
+1,0,0,1,1,0,0,3,0,Elderly,High,Desirable,Below Average,Severe
+1,0,0,1,1,2,0,3,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,0,0,0,1,1,3,2,0,Elderly,High,High,Below Average,Moderate
+0,2,0,1,0,1,1,3,0,Elderly,Normal,High,Below Average,Moderate
+0,2,1,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+0,0,0,0,1,1,0,2,1,Middle-aged,Normal,Borderline high,Average,Minimal
+0,0,0,0,0,1,0,2,1,Middle-aged,Normal,High,Average,Minimal
+1,2,0,1,0,1,3,3,1,Elderly,Normal,Borderline high,Average,Moderate
+0,0,0,1,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,2,0,1,0,1,1,3,0,Middle-aged,Normal,Borderline high,Above Average,Minimal
+0,2,1,0,0,2,1,2,1,Elderly,Normal,High,Average,Minimal
+0,3,0,1,0,2,2,2,1,Elderly,Normal,Borderline high,Average,Moderate
+0,2,0,0,0,1,0,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+0,0,0,0,0,1,0,2,1,Middle-aged,Low,High,Below Average,Minimal
+1,0,1,1,0,2,3,3,1,Middle-aged,Low,Borderline high,Average,Minimal
+0,0,0,1,1,1,0,3,0,Middle-aged,Normal,High,Below Average,Minimal
+0,2,0,1,0,1,0,2,1,Middle-aged,Low,Desirable,Above Average,Minimal
+0,2,0,2,0,1,0,2,1,Elderly,Normal,Desirable,Below Average,Moderate
+1,0,0,0,1,1,2,3,0,Middle-aged,Normal,High,Below Average,Severe
+0,2,1,1,0,2,0,2,1,Middle-aged,Low,Desirable,Below Average,Minimal
+1,0,1,0,1,0,0,3,0,Middle-aged,Normal,Borderline high,Average,Severe
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,High,Above Average,Minimal
+1,2,0,1,0,2,4,2,1,Middle-aged,Normal,Desirable,Above Average,Minimal
+1,2,1,1,0,2,0,3,1,Middle-aged,High,Desirable,Average,Minimal
+1,3,0,0,0,1,0,1,1,Middle-aged,Low,Desirable,Above Average,Minimal
+1,2,1,0,0,1,0,2,1,Middle-aged,Normal,High,Above Average,Severe
+1,0,0,1,0,2,0,3,1,Middle-aged,Low,Borderline high,Average,Minimal
+1,0,0,1,0,1,0,3,0,Middle-aged,Low,Borderline high,Below Average,Moderate
+0,0,0,1,1,1,2,2,0,Elderly,Low,High,Above Average,Moderate
+1,1,1,1,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,0,0,0,0,2,1,2,0,Middle-aged,Low,Desirable,Above Average,Minimal
+1,0,0,0,1,1,3,3,0,Middle-aged,High,High,Average,Minimal
+1,0,0,1,0,1,0,1,1,Middle-aged,Normal,Desirable,Average,Minimal
+1,0,0,1,0,1,0,3,0,Middle-aged,Low,Borderline high,Below Average,Moderate
+0,0,0,1,0,2,2,2,1,Elderly,Low,Borderline high,Below Average,Minimal
+1,0,0,1,1,1,1,3,1,Elderly,Normal,High,Below Average,Minimal
+1,0,0,1,0,1,0,3,1,Middle-aged,Normal,Borderline high,Average,Minimal
+1,2,0,1,0,1,3,3,1,Elderly,Normal,Borderline high,Average,Moderate
+0,0,0,2,1,1,0,2,0,Middle-aged,High,High,Below Average,Severe
+1,1,0,0,0,2,1,2,0,Middle-aged,High,Borderline high,Above Average,Minimal
+1,0,0,0,0,1,2,3,0,Middle-aged,Normal,High,Above Average,Moderate
+0,1,0,1,0,2,2,2,1,Elderly,High,High,Average,Minimal
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,0,1,1,1,2,2,3,0,Middle-aged,Low,Borderline high,Average,Moderate
+0,0,0,0,0,2,0,2,1,Middle-aged,Low,High,Average,Minimal
+1,0,1,0,1,1,4,3,0,Middle-aged,Normal,High,Average,Minimal
+1,0,0,0,1,1,1,3,0,Middle-aged,Low,Borderline high,Below Average,Moderate
+1,1,0,1,0,2,0,3,1,Middle-aged,Low,High,Above Average,Minimal
+0,0,0,0,1,1,2,3,0,Middle-aged,Normal,High,Average,Moderate
+1,0,0,1,0,1,1,3,0,Middle-aged,Low,Desirable,Below Average,Moderate
+1,0,0,1,1,1,0,1,0,Middle-aged,Normal,High,Below Average,Moderate
+1,0,1,1,0,1,2,3,0,Elderly,Normal,High,Above Average,Minimal
+1,0,0,0,0,1,2,1,0,Elderly,High,Borderline high,Below Average,Moderate
+1,0,0,1,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,0,0,0,1,2,1,2,0,Elderly,Low,Borderline high,Below Average,Minimal
+1,0,1,1,0,2,3,3,1,Middle-aged,Low,Borderline high,Average,Minimal
+0,2,0,0,0,2,1,2,1,Middle-aged,Normal,High,Below Average,Moderate
+0,0,0,2,1,1,1,3,0,Middle-aged,Normal,Borderline high,Below Average,Moderate
+1,2,1,0,0,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,3,0,0,0,1,0,3,1,Middle-aged,Low,Desirable,Average,Moderate
+1,1,0,1,0,2,0,2,1,Middle-aged,Low,High,Average,Minimal
+1,0,0,1,0,2,0,3,0,Middle-aged,High,Borderline high,Above Average,Minimal
+1,0,0,1,1,2,0,3,0,Middle-aged,Normal,High,Above Average,Moderate
+1,1,0,0,0,2,0,2,1,Middle-aged,Normal,High,Above Average,Minimal
+1,1,0,1,0,0,0,3,0,Middle-aged,Low,Borderline high,Above Average,Minimal
+1,0,0,2,0,0,3,1,0,Middle-aged,Low,High,Below Average,Severe
+0,2,0,1,0,1,0,2,1,Middle-aged,Low,Desirable,Above Average,Minimal
+1,0,0,0,1,1,3,3,0,Middle-aged,Normal,Borderline high,Below Average,Severe
+1,3,1,0,0,1,1,2,0,Elderly,Normal,High,Above Average,Moderate
+1,0,0,1,1,1,2,3,0,Middle-aged,Normal,High,Below Average,Moderate
+1,0,0,0,0,2,0,3,0,Middle-aged,Low,Desirable,Average,Minimal
+1,0,0,1,0,2,0,2,1,Middle-aged,Low,Borderline high,Average,Minimal
+1,1,0,1,1,2,0,2,1,Middle-aged,Normal,Borderline high,Above Average,Minimal
+1,0,0,0,1,1,1,3,0,Middle-aged,Normal,High,Below Average,Severe
+1,0,0,0,1,1,1,2,0,Middle-aged,Low,High,Below Average,Minimal
+0,0,0,0,0,2,0,2,1,Middle-aged,Low,High,Average,Minimal
+1,0,0,1,0,1,1,3,0,Middle-aged,Low,Desirable,Below Average,Moderate
